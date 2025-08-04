@@ -2,7 +2,7 @@
 Practicing automating the process of testing, building, and deploying a Node.js app using Docker and GitHub Actions.
 
 1. Setting Up the Node.js App
-   - We created a simple Node.js app that listens on port `3000` and responds with the text **“Hello, CI/CD World!”**.
+   - I created a simple Node.js app that listens on port `3000` and responds with the text **“Hello, CI/CD World!”**.
 
 2. Creating package.json
 
