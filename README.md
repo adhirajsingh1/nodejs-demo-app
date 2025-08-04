@@ -51,3 +51,15 @@ Practicing automating the process of testing, building, and deploying a Node.js 
 7. Verifying the Docker Image
 
     After the workflow completed successfully, I checked Docker Hub to verify that the image was pushed and is available for deployment.
+
+## CI/CD Pipeline Screenshot
+
+Below is a screenshot showing the successful run of the CI/CD pipeline on GitHub Actions:
+
+![CI/CD Pipeline Success](images/your-screenshot.png)
+
+## Docker Hub Image Screenshot
+
+This is a screenshot from Docker Hub showing that the Docker image has been successfully pushed:
+
+![Docker Hub Image Pushed](images/dockerhub-screenshot.png)
